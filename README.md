@@ -1,6 +1,6 @@
 # Music-Python
 
-When changing the country for my Apple Music subscription from UK to Germany - so that I can use my German credit card to pay for it - Apple helpfully wipe your entire Apple Music library. That's everything I've "added to library" as I browse around during the past few years.
+When changing the country for my Apple Music subscription from UK to Germany - so that I can use my German credit card to pay for it - Apple helpfully wiped my entire Apple Music library. That's everything I've "added to library" as I browse around during the past few years.
 
 (Note: this doesn't affect anything I bought through iTunes Music Store or things I uploaded into iTunes in the past).
 
