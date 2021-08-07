@@ -1,12 +1,18 @@
 # Music-Python
 
+## DISCLAIMER
+
+All the usual warnings apply. I'm not responsible if you use this crappy code and mess up your Apple Music library entirely. You'll need to be comfortable with grabbing tokens from the request headers via your favourite browser.
+
+## Why this is here
+
 When changing the country for my Apple Music subscription from UK to Germany - so that I can use my German credit card to pay for it - Apple helpfully wiped my entire Apple Music library. That's everything I've "added to library" as I browse around during the past few years.
 
 (Note: this doesn't affect anything I bought through iTunes Music Store or things I uploaded into iTunes in the past).
 
-So, having been cautious, I took a backup of my library (`Music > File > Library > Export Library...`). It produces a huge XML file.
+So before I made the switch, having been cautious, I'd taken a backup of my library (`Music > File > Library > Export Library...`). It produces a huge XML file.
 
-Not all of it is relevant for Apple Music, and it's not terribly well formatted.
+Not all of it is relevant for Apple Music, and it's not terribly nicely formatted.
 
 ## Tidying up the XML
 
